@@ -11,7 +11,7 @@
  * 
  
  *@author Stiven Dhaskallo 
- * versione1
+ * versione 2
  */
 public class Treno {
 /**
